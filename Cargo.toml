@@ -1,0 +1,6 @@
+[package]
+name = "erc7579-useroperation-server"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
